@@ -28,5 +28,5 @@
 | Prog | [XML Conversion](https://github.com/diogopmac/PROG-XML_Conversion) | Implementation of a program that converts SVG arquives to PNG arquives. Solved using C++ | 17.6
 | BD | [Soulslike Database](https://github.com/diogopmac/BD-SoulsLike) | Project to track essential aspects of a SoulsLike videogame. Developed in SQLite3 | 19.0
 | LDTS | [Survivor](https://github.com/diogopmac/LDTS-Survivor) | Surviving videogame against waves of enimies, with different weapons and classes, using LanternaGUI. Developed using Java | 19.1
-| DA | Route Planner | (In development) Tool to find the best routes for travelling in Porto's Metropolitan area. Solved using C++ | -
+| DA | [Route Planner](https://github.com/diogopmac/DA-RoutePlanning) | Tool to find the best routes for travelling in Porto's Metropolitan area. Solved using C++ | -
 | ESOF | EcoFinder | (In development) Mobile app to find local Environmentally friendly commerce and events. Created with Flutter and Dart | -
