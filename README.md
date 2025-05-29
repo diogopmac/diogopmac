@@ -12,8 +12,8 @@
 </div>
 
 <div align="center">
-  <img height=160em src="https://github-readme-stats.vercel.app/api?username=diogopmac&include_all_commits=true&count_private=true&hide_rank=false&theme=dark"/>
-  <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopmac&layout=compact&theme=dark"/>
+  <img height=160em src="https://github-readme-stats.vercel.app/api?username=diogopmac&theme=dark&hide_border=false&count_private=true"/>
+  <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopmac&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
   <br><br>
 </div>
 
@@ -29,5 +29,6 @@
 | BD | [Soulslike Database](https://github.com/diogopmac/BD-SoulsLike) | Project to track essential aspects of a SoulsLike videogame. Developed in SQLite3 | 19.0
 | LDTS | [Survivor](https://github.com/diogopmac/LDTS-Survivor) | Surviving videogame against waves of enimies, with different weapons and classes, using LanternaGUI. Developed using Java | 19.1
 | DA | [Route Planner](https://github.com/diogopmac/DA-RoutePlanning) | Tool to find the best routes for travelling in Porto's Metropolitan area. Solved using C++ | 19.0
-| DA | [Knapsack](https://github.com/diogopmac/DA-Knapsack) | Project to study different Algoritmic approaches to the 0/1 Knapsack problem. Solved using C++ | -
+| DA | [Knapsack](https://github.com/diogopmac/DA-Knapsack) | Project to study different Algorithmic approaches to the 0/1 Knapsack problem. Solved using C++ | -
 | ESOF | [EcoFinder](https://github.com/diogopmac/ESOF-EcoFinder) | Mobile app to find local Environmentally friendly commerce and events. Created with Flutter and Dart | -
+| LTW | [Sixerr](https://github.com/diogopmac/LTW-Sixerr) | Freelancing website, mock of the famous website "Fiverr". Created using HTML, CSS and Javascript | -
