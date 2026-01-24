@@ -33,9 +33,9 @@
 | ESOF | [EcoFinder](https://github.com/diogopmac/ESOF-EcoFinder) | Mobile app to find local Environmentally friendly commerce and events. Created with Flutter and Dart | 19.1
 | LCOM | [Minix Invaders](https://github.com/diogopmac/LCOM-Minix_Invaders) | Recreation of the popular videogame "Space Invaders" using Minix3 OS. Developed in C | 17.6
 | LTW | [Sixerr](https://github.com/diogopmac/LTW-Sixerr) | Freelancing website, mock of the famous website "Fiverr". Created using PHP, HTML, CSS and Javascript | 16.0
-| RCOM | [Stop and Wait](https://github.com/diogopmac/RCOM-StopAndWait) | File transfer protocol, following the "Stop-and-Wait" protocol. Developed in C | - 
-| RCOM | [Network Configuration](https://github.com/diogopmac/RCOM-NetworkConfiguration) | Development of a Download Application in C and Study of a Computer Network Configuration | -
-| LBAW | Mosaico | Event Management Website. Created using PostgreSQL, Laravel, PHP and TailwindCSS | -
+| RCOM | [Stop and Wait](https://github.com/diogopmac/RCOM-StopAndWait) | File transfer protocol, following the "Stop-and-Wait" protocol. Developed in C | 17.0 
+| RCOM | [Network Configuration](https://github.com/diogopmac/RCOM-NetworkConfiguration) | Development of a Download Application in C and Study of a Computer Network Configuration | 20.0
+| LBAW | [Mosaico](https://github.com/diogopmac/LBAW-Mosaico) | Event Management Website. Created using PostgreSQL, Laravel, PHP and TailwindCSS | 19.0
 
 
 
