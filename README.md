@@ -10,33 +10,3 @@
   </h4>
 <br>
 </div>
-
-<div align="center">
-  <img height=160em src="https://github-readme-stats.vercel.app/api?username=diogopmac&theme=dark&hide_border=false&count_private=true"/>
-  <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopmac&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-  <br><br>
-</div>
-
-<div align="center">
-<h2>
-  My University Projects
-</h2>
-<div/>
-
-| UC | Name | Description | Grade (0/20) |
-| :---: | :-----: | :------------: | :---------: |
-| P | [XML Conversion](https://github.com/diogopmac/PROG-XML_Conversion) | Implementation of a program that converts SVG arquives to PNG arquives. Solved using C++ | 17.6
-| BD | [Soulslike Database](https://github.com/diogopmac/BD-SoulsLike) | Project to track essential aspects of a SoulsLike videogame. Developed in SQLite3 | 19.0
-| LDTS | [Survivor](https://github.com/diogopmac/LDTS-Survivor) | Surviving videogame against waves of enimies, with different weapons and classes, using LanternaGUI. Developed using Java | 19.1
-| DA | [Route Planner](https://github.com/diogopmac/DA-RoutePlanning) | Tool to find the best routes for travelling in Porto's Metropolitan area. Solved using C++ | 19.0
-| DA | [Knapsack](https://github.com/diogopmac/DA-Knapsack) | Project to study different Algorithmic approaches to the 0/1 Knapsack problem. Solved using C++ | 19.0
-| ESOF | [EcoFinder](https://github.com/diogopmac/ESOF-EcoFinder) | Mobile app to find local Environmentally friendly commerce and events. Created with Flutter and Dart | 19.1
-| LCOM | [Minix Invaders](https://github.com/diogopmac/LCOM-Minix_Invaders) | Recreation of the popular videogame "Space Invaders" using Minix3 OS. Developed in C | 17.6
-| LTW | [Sixerr](https://github.com/diogopmac/LTW-Sixerr) | Freelancing website, mock of the famous website "Fiverr". Created using PHP, HTML, CSS and Javascript | 16.0
-| RCOM | [Stop and Wait](https://github.com/diogopmac/RCOM-StopAndWait) | File transfer protocol, following the "Stop-and-Wait" protocol. Developed in C | 17.0 
-| RCOM | [Network Configuration](https://github.com/diogopmac/RCOM-NetworkConfiguration) | Development of a Download Application in C and Study of a Computer Network Configuration | 20.0
-| LBAW | [Mosaico](https://github.com/diogopmac/LBAW-Mosaico) | Event Management Website. Created using PostgreSQL, Laravel, PHP and TailwindCSS | 19.0
-
-
-
-
